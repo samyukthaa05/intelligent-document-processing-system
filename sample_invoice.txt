@@ -1,0 +1,9 @@
+SAMPLE INVOICE
+Invoice No: INV-2026-001
+Invoice Date: 26 October 2026
+South India Bottling Company Pvt Ltd
+Email: accounts@example.com
+Phone: +91 98765 43210
+
+Description: Document processing demonstration
+Grand Total: INR 28,500.00
